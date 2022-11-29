@@ -2,6 +2,9 @@
 Changelog for package tiago_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.0.1 (2022-11-29)
+------------------
+
 4.0.0 (2022-11-08)
 ------------------
 * Merge branch 'update_copyright' into 'humble-devel'
