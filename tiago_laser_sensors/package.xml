@@ -1,18 +1,15 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>tiago_2dnav</name>
+  <name>tiago_laser_sensors</name>
   <version>4.0.4</version>
-  <description>TIAGo-specific launch files needed to run navigation on a TIAGo robot.</description>
+  <description>Launch files and scripts needed to bring up the ROS nodes of a TIAGo robot.</description>
   <maintainer email="jordan.palacios@pal-robotics.com">Jordan Palacios</maintainer>
-  <maintainer email="noel.jimenez@pal-robotics.com">Noel Jimenez</maintainer>
   <license>Apache License 2.0</license>
-  <author email="enrique.fernandez@pal-robotics.com">Enrique Fernandez</author>
+  <author email="antonio.brandi@pal-robotics.com">Antonio Brandi</author>
 
   <buildtool_depend>ament_cmake_auto</buildtool_depend>
 
-  <exec_depend>launch_pal</exec_depend>
-  <exec_depend>pmb2_2dnav</exec_depend>
-  <exec_depend>pal_navigation_cfg_bringup</exec_depend>
+  <exec_depend>pmb2_laser_sensors</exec_depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
