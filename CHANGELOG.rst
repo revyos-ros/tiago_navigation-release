@@ -13,6 +13,25 @@ Changelog for package pmb2_2dnav
 2.0.7 (2020-07-02)
 ------------------
 
+4.0.9 (2023-12-12)
+------------------
+
+4.0.8 (2023-11-14)
+------------------
+* Add website tag
+* Contributors: Noel Jimenez
+
+4.0.7 (2023-11-07)
+------------------
+
+4.0.6 (2023-09-18)
+------------------
+* Merge branch 'remove_pal_flags_dependency' into 'humble-devel'
+  Remove pal flags dependency
+  See merge request robots/tiago_navigation!86
+* Remove pal flags dependency
+* Contributors: Jordan Palacios, Noel Jimenez
+
 4.0.5 (2023-06-16)
 ------------------
 * Merge branch 'feat/laser-filters' into 'humble-devel'
