@@ -2,6 +2,31 @@
 Changelog for package tiago_laser_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.0.9 (2023-12-12)
+------------------
+* Bump module names
+* Contributors: Noel Jimenez
+
+4.0.8 (2023-11-14)
+------------------
+* Add website tag
+* Rename laser module
+* Contributors: Noel Jimenez
+
+4.0.7 (2023-11-07)
+------------------
+* Specify laser model
+* Contributors: Noel Jimenez
+
+4.0.6 (2023-09-18)
+------------------
+* Merge branch 'add_modules' into 'humble-devel'
+  Adding laser module
+  See merge request robots/tiago_navigation!88
+* Adding laser module
+  Conditioned to pal distros only
+* Contributors: Jordan Palacios
+
 4.0.5 (2023-06-16)
 ------------------
 
