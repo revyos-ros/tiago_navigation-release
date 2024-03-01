@@ -13,6 +13,30 @@ Changelog for package pmb2_2dnav
 2.0.7 (2020-07-02)
 ------------------
 
+4.0.12 (2024-02-13)
+-------------------
+* Merge branch 'abr/fix/world-name' into 'humble-devel'
+  set default world_name for standalone navigation
+  See merge request robots/tiago_navigation!97
+* set default world_name for standalone navigation
+* Contributors: antoniobrandi
+
+4.0.11 (2024-02-12)
+-------------------
+* Merge branch 'fix/pal_nav2_bringup' into 'humble-devel'
+  Use pal_nav2_bringup only for private simulation
+  See merge request robots/tiago_navigation!96
+* Use pal_nav2_bringup only for private simulation
+* Contributors: Noel Jimenez, antoniobrandi
+
+4.0.10 (2024-02-02)
+-------------------
+* Merge branch 'feat/register-components' into 'humble-devel'
+  using components and parameters
+  See merge request robots/tiago_navigation!95
+* using components and parameters
+* Contributors: antoniobrandi
+
 4.0.9 (2023-12-12)
 ------------------
 
