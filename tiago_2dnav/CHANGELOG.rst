@@ -13,6 +13,49 @@ Changelog for package pmb2_2dnav
 2.0.7 (2020-07-02)
 ------------------
 
+4.0.17 (2024-06-18)
+-------------------
+* Fix pal_maps path
+* Contributors: Noel Jimenez
+
+4.0.16 (2024-05-29)
+-------------------
+* Merge branch 'fix/aca/public-sim' into 'humble-devel'
+  fix public sim
+  See merge request robots/tiago_navigation!103
+* fix public sim
+* Contributors: Noel Jimenez, andreacapodacqua
+
+4.0.15 (2024-05-08)
+-------------------
+
+4.0.14 (2024-04-29)
+-------------------
+* Merge branch 'abr/feat/deprecate-maps' into 'humble-devel'
+  deprecate tiago_maps
+  See merge request robots/tiago_navigation!99
+* deprecate tiago_maps
+* Contributors: antoniobrandi
+
+4.0.13 (2024-04-23)
+-------------------
+* Merge branch 'feat/ros2-pipelines' into 'humble-devel'
+  Feat/ros2 pipelines
+  See merge request robots/tiago_navigation!98
+* using variables lifecycle manager
+* using new variables names
+* using variables
+* restored default controller
+* update public sim launch and renamed params
+* cosmetic
+* linters
+* modified params laser pipeline
+* linters
+* navigation pipelines
+* navigation pipeline
+* added modules and pipelines
+* Contributors: andreacapodacqua, antoniobrandi
+
 4.0.12 (2024-02-13)
 -------------------
 * Merge branch 'abr/fix/world-name' into 'humble-devel'
