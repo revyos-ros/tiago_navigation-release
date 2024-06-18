@@ -2,6 +2,39 @@
 Changelog for package tiago_laser_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.0.17 (2024-06-18)
+-------------------
+
+4.0.16 (2024-05-29)
+-------------------
+
+4.0.15 (2024-05-08)
+-------------------
+* Merge branch 'fix/aca/missing-deps' into 'humble-devel'
+  fix deps
+  See merge request robots/tiago_navigation!100
+* fix deps
+* Contributors: andreacapodacqua, antoniobrandi
+
+4.0.14 (2024-04-29)
+-------------------
+
+4.0.13 (2024-04-23)
+-------------------
+* Merge branch 'feat/ros2-pipelines' into 'humble-devel'
+  Feat/ros2 pipelines
+  See merge request robots/tiago_navigation!98
+* using variables lifecycle manager
+* using new variables names
+* using variables
+* using variables for laser pipelines
+* update public sim launch and renamed params
+* modified params laser pipeline
+* navigation pipelines
+* navigation pipeline
+* added modules and pipelines
+* Contributors: andreacapodacqua, antoniobrandi
+
 4.0.12 (2024-02-13)
 -------------------
 
