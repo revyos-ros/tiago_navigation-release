@@ -11,18 +11,18 @@
 #       params: [<LIST-YAML-PARAM-FILES>]
 
 containers:
-  laser_container:
-    sick_571:
-      app: sick_driver
-      params: [sick_571]
-    pal_laser_filters:
-      app: pal_laser_filters
-      params: [default]
-    dlo_ros:
-      app: dlo_ros
-      params: [default]
-    lifecycle_manager_laser:
+  localization_container:
+    map_server:
+      app: map_server
+      params: [map_server]
+    map_saver:
+      app: map_saver
+      params: [map_saver]
+    amcl:
+      app: amcl
+      params: [amcl_omni]
+    lifecycle_manager_localization:
       app: lifecycle_manager
       params: [default]
       variables:
-        node_names: ["sick_571", "pal_laser_filters", "dlo_ros"]
+        node_names: ["map_server", "map_saver", "amcl"]
