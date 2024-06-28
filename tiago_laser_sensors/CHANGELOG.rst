@@ -2,6 +2,19 @@
 Changelog for package tiago_laser_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.1.0 (2024-06-26)
+------------------
+* Merge branch 'feature/support-different-base-types' into 'humble-devel'
+  feat: support different base types
+  See merge request robots/tiago_navigation!102
+* added laser filters
+* feat: support base_type on real robot
+* feat: support base_type in simulation
+* Contributors: antoniobrandi, josegarcia
+
+4.0.18 (2024-06-25)
+-------------------
+
 4.0.17 (2024-06-18)
 -------------------
 
