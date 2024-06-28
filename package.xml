@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>tiago_laser_sensors</name>
-  <version>4.0.17</version>
+  <version>4.1.0</version>
   <description>Launch files and scripts needed to bring up the ROS nodes of a TIAGo robot.</description>
   <maintainer email="jordan.palacios@pal-robotics.com">Jordan Palacios</maintainer>
   <license>Apache License 2.0</license>
@@ -14,6 +14,7 @@
   <build_depend condition="$PAL_DISTRO >= alum">pal_module_cmake</build_depend>
 
   <exec_depend condition="$PAL_DISTRO >= alum">sick_tim</exec_depend>
+  <exec_depend condition="$PAL_DISTRO >= alum">ira_laser_tools</exec_depend>
   <exec_depend condition="$PAL_DISTRO >= alum">pal_laser_filters</exec_depend>
   <exec_depend condition="$PAL_DISTRO >= alum">dlo_ros</exec_depend>
   <exec_depend condition="$PAL_DISTRO >= alum">pal_nav2_bringup</exec_depend>
