@@ -13,6 +13,51 @@ Changelog for package pmb2_2dnav
 2.0.7 (2020-07-02)
 ------------------
 
+4.1.7 (2024-07-19)
+------------------
+* Merge branch 'fix/aca/laser-frames' into 'humble-devel'
+  fix laser frames
+  See merge request robots/tiago_navigation!113
+* fix laser frames
+* Contributors: andreacapodacqua
+
+4.1.6 (2024-07-17)
+------------------
+* Merge branch 'air/unify_pkgs' into 'humble-devel'
+  restructure launch file
+  See merge request robots/tiago_navigation!109
+* add slam condition in slam launch include & fix error file path for slam
+* remove condition in public rviz
+* fix config files paths
+* using base_type and changing pub/private condition
+* change base name into base_navigation_type
+* add laser dependency
+* restructure launch file
+* Contributors: Aina, antoniobrandi
+
+4.1.5 (2024-07-15)
+------------------
+* Merge branch 'feat/aca/pipeline-substitution' into 'humble-devel'
+  using variables for pipeline
+  See merge request robots/tiago_navigation!105
+* reorganized remappings file
+* naming convention
+* added device number laser
+* Contributors: andreacapodacqua
+
+4.1.4 (2024-07-10)
+------------------
+* Merge branch 'fix/aca/missing-dep' into 'humble-devel'
+  added missing dep
+  See merge request robots/tiago_navigation!112
+* added missing dep
+* Contributors: andreacapodacqua
+
+4.1.3 (2024-07-09)
+------------------
+* Add warning for pal_module_cmake not found
+* Contributors: Noel Jimenez
+
 4.1.2 (2024-07-05)
 ------------------
 * Merge branch 'fix/changed-base-type-name' into 'humble-devel'
