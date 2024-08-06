@@ -2,6 +2,30 @@
 Changelog for package tiago_laser_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.1.7 (2024-07-19)
+------------------
+
+4.1.6 (2024-07-17)
+------------------
+
+4.1.5 (2024-07-15)
+------------------
+* Merge branch 'feat/aca/pipeline-substitution' into 'humble-devel'
+  using variables for pipeline
+  See merge request robots/tiago_navigation!105
+* naming convention
+* using variables laser pipeline tiago omni
+* using variables for pipeline
+* Contributors: andreacapodacqua
+
+4.1.4 (2024-07-10)
+------------------
+
+4.1.3 (2024-07-09)
+------------------
+* Add warning for pal_module_cmake not found
+* Contributors: Noel Jimenez
+
 4.1.2 (2024-07-05)
 ------------------
 * Merge branch 'fix/changed-base-type-name' into 'humble-devel'
