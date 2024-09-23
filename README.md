@@ -1,3 +1,29 @@
+## tiago_navigation (humble) - 4.2.0-1
+
+The packages in the `tiago_navigation` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble tiago_navigation --override-release-repository-push-url git@github.com:revyos-ros/tiago_navigation-release.git` on `Mon, 23 Sep 2024 05:09:26 -0000`
+
+These packages were released:
+- `tiago_2dnav`
+- `tiago_laser_sensors`
+- `tiago_navigation`
+
+Version of package(s) in repository `tiago_navigation`:
+
+- upstream repository: https://github.com/pal-robotics/tiago_navigation.git
+- release repository: https://github.com/revyos-ros/tiago_navigation-release.git
+- rosdistro version: `4.2.0-1`
+- old version: `4.1.7-1`
+- new version: `4.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## tiago_navigation (humble) - 4.1.7-1
 
 The packages in the `tiago_navigation` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble -y tiago_navigation` on `Tue, 06 Aug 2024 08:41:30 -0000`
